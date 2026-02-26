@@ -55,4 +55,5 @@ This project focuses on analyzing the **end-to-end sales funnel** to identify co
 ## Tools Used
 - **SQL** — data aggregation and metric calculation  
 - **Python (Pandas)** — data validation and data exploration  
-- **Power BI** — reports and visualization  
+- **Power BI** — reports and visualization
+- **MS Excel**
